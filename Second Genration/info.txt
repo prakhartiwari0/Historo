@@ -1,0 +1,22 @@
+The period of second generation was from 1959-1965. In this generation, transistors were used that were cheaper, consumed less power, more compact in size, more reliable and faster than the first generation machines made of vacuum tubes. In this generation, magnetic cores were used as the primary memory and magnetic tape and magnetic disks as secondary storage devices.
+
+In this generation, assembly language and high-level programming languages like FORTRAN, COBOL were used. The computers used batch processing and multiprogramming operating system.
+
+The main features of second generation are −
+
+Use of transistors
+Reliable in comparison to first generation computers
+Smaller size as compared to first generation computers
+Generated less heat as compared to first generation computers
+Consumed less electricity as compared to first generation computers
+Faster than first generation computers
+Still very costly
+AC required
+Supported machine and assembly languages
+Some computers of this generation were −
+
+IBM 1620
+IBM 7094
+CDC 1604
+CDC 3600
+UNIVAC 1108

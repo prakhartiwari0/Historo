@@ -1,0 +1,23 @@
+The period of first generation was from 1946-1959. The computers of first generation used vacuum tubes as the basic components for memory and circuitry for CPU (Central Processing Unit). These tubes, like electric bulbs, produced a lot of heat and the installations used to fuse frequently. Therefore, they were very expensive and only large organizations were able to afford it.
+
+In this generation, mainly batch processing operating system was used. Punch cards, paper tape, and magnetic tape was used as input and output devices. The computers in this generation used machine code as the programming language.
+
+The main features of the first generation are −
+
+Vacuum tube technology
+Unreliable
+Supported machine language only
+Very costly
+Generated a lot of heat
+Slow input and output devices
+Huge size
+Need of AC
+Non-portable
+Consumed a lot of electricity
+Some computers of this generation were −
+
+ENIAC
+EDVAC
+UNIVAC
+IBM-701
+IBM-650

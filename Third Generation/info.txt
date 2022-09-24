@@ -1,0 +1,23 @@
+The period of third generation was from 1965-1971. The computers of third generation used Integrated Circuits (ICs) in place of transistors. A single IC has many transistors, resistors, and capacitors along with the associated circuitry.
+
+The IC was invented by Jack Kilby. This development made computers smaller in size, reliable, and efficient. In this generation remote processing, time-sharing, multiprogramming operating system were used. High-level languages (FORTRAN-II TO IV, COBOL, PASCAL PL/1, BASIC, ALGOL-68 etc.) were used during this generation.
+
+The main features of third generation are −
+
+IC used
+More reliable in comparison to previous two generations
+Smaller size
+Generated less heat
+Faster
+Lesser maintenance
+Costly
+AC required
+Consumed lesser electricity
+Supported high-level language
+Some computers of this generation were −
+
+IBM-360 series
+Honeywell-6000 series
+PDP (Personal Data Processor)
+IBM-370/168
+TDC-316

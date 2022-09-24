@@ -1,0 +1,27 @@
+The period of fifth generation is 1980-till date. In the fifth generation, VLSI technology became ULSI (Ultra Large Scale Integration) technology, resulting in the production of microprocessor chips having ten million electronic components.
+
+This generation is based on parallel processing hardware and AI (Artificial Intelligence) software. AI is an emerging branch in computer science, which interprets the means and method of making computers think like human beings. All the high-level languages like C and C++, Java, .Net etc., are used in this generation.
+
+AI includes −
+
+Robotics
+Neural Networks
+Game Playing
+Development of expert systems to make decisions in real-life situations
+Natural language understanding and generation
+The main features of fifth generation are −
+
+ULSI technology
+Development of true artificial intelligence
+Development of Natural language processing
+Advancement in Parallel Processing
+Advancement in Superconductor technology
+More user-friendly interfaces with multimedia features
+Availability of very powerful and compact computers at cheaper rates
+Some computer types of this generation are −
+
+Desktop
+Laptop
+NoteBook
+UltraBook
+ChromeBook
